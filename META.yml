@@ -44,7 +44,7 @@ resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Clio
   homepage: http://search.cpan.org/dist/Clio
   repository: git://github.com/ajgb/clio.git
-version: 0.01
+version: 0.02
 x_Dist_Zilla:
   plugins:
     -

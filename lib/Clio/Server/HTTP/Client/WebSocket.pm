@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Server::HTTP::Client::WebSocket::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Server::HTTP::Client::WebSocket::VERSION = '0.01';
+  $Clio::Server::HTTP::Client::WebSocket::VERSION = '0.02';
 }
 # ABSTRACT: Clio HTTP Client for WebSocket connections
 
@@ -117,7 +117,7 @@ Clio::Server::HTTP::Client::WebSocket - Clio HTTP Client for WebSocket connectio
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

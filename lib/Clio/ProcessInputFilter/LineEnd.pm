@@ -4,7 +4,7 @@ BEGIN {
   $Clio::ProcessInputFilter::LineEnd::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::ProcessInputFilter::LineEnd::VERSION = '0.01';
+  $Clio::ProcessInputFilter::LineEnd::VERSION = '0.02';
 }
 # ABSTRACT: Process input filter appending LF
 
@@ -38,7 +38,7 @@ Clio::ProcessInputFilter::LineEnd - Process input filter appending LF
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

@@ -4,7 +4,7 @@ BEGIN {
   $Clio::ClientOutputFilter::jQueryStream::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::ClientOutputFilter::jQueryStream::VERSION = '0.01';
+  $Clio::ClientOutputFilter::jQueryStream::VERSION = '0.02';
 }
 # ABSTRACT: Client output filter for jQueryStream
 
@@ -60,7 +60,7 @@ Clio::ClientOutputFilter::jQueryStream - Client output filter for jQueryStream
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

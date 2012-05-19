@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Config::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Config::VERSION = '0.01';
+  $Clio::Config::VERSION = '0.02';
 }
 # ABSTRACT: Config loader
 
@@ -300,7 +300,7 @@ Clio::Config - Config loader
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

@@ -4,7 +4,7 @@ BEGIN {
   $Clio::ProcessManager::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::ProcessManager::VERSION = '0.01';
+  $Clio::ProcessManager::VERSION = '0.02';
 }
 # ABSTRACT: Process manager
 
@@ -185,7 +185,7 @@ Clio::ProcessManager - Process manager
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

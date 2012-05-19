@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Process::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Process::VERSION = '0.01';
+  $Clio::Process::VERSION = '0.02';
 }
 # ABSTRACT: Process wrapper
 
@@ -148,7 +148,7 @@ Clio::Process - Process wrapper
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Role::UUIDMaker::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Role::UUIDMaker::VERSION = '0.01';
+  $Clio::Role::UUIDMaker::VERSION = '0.02';
 }
 # ABSTRACT: Role for creating UUID
 
@@ -31,7 +31,7 @@ Clio::Role::UUIDMaker - Role for creating UUID
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

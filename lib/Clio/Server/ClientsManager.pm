@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Server::ClientsManager::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Server::ClientsManager::VERSION = '0.01';
+  $Clio::Server::ClientsManager::VERSION = '0.02';
 }
 # ABSTRACT: Clients manager
 
@@ -75,7 +75,7 @@ Clio::Server::ClientsManager - Clients manager
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

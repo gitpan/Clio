@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Server::TCP::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Server::TCP::VERSION = '0.01';
+  $Clio::Server::TCP::VERSION = '0.02';
 }
 # ABSTRACT: Clio TCP Server
 
@@ -68,7 +68,7 @@ Clio::Server::TCP - Clio TCP Server
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

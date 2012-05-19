@@ -4,7 +4,7 @@ BEGIN {
   $Clio::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::VERSION = '0.01';
+  $Clio::VERSION = '0.02';
 }
 # ABSTRACT: Command Line Input/Output with sockets and HTTP
 
@@ -144,7 +144,7 @@ Clio - Command Line Input/Output with sockets and HTTP
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

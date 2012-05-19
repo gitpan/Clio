@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Server::HTTP::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Server::HTTP::VERSION = '0.01';
+  $Clio::Server::HTTP::VERSION = '0.02';
 }
 # ABSTRACT: Clio HTTP Server
 
@@ -118,7 +118,7 @@ Clio::Server::HTTP - Clio HTTP Server
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

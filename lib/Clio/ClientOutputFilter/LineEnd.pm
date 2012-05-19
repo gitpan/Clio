@@ -4,7 +4,7 @@ BEGIN {
   $Clio::ClientOutputFilter::LineEnd::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::ClientOutputFilter::LineEnd::VERSION = '0.01';
+  $Clio::ClientOutputFilter::LineEnd::VERSION = '0.02';
 }
 # ABSTRACT: Client output filter appending CRLF
 
@@ -39,7 +39,7 @@ Clio::ClientOutputFilter::LineEnd - Client output filter appending CRLF
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

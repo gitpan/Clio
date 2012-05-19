@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Server::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Server::VERSION = '0.01';
+  $Clio::Server::VERSION = '0.02';
 }
 # ABSTRACT: Base abstract class for Clio::Server::* implementations
 
@@ -58,7 +58,7 @@ Clio::Server - Base abstract class for Clio::Server::* implementations
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

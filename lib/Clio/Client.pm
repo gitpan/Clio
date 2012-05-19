@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Client::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Client::VERSION = '0.01';
+  $Clio::Client::VERSION = '0.02';
 }
 # ABSTRACT: Base abstract class for Clio::Client::* implementations
 
@@ -75,7 +75,7 @@ Clio::Client - Base abstract class for Clio::Client::* implementations
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

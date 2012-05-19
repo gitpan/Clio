@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Role::HasManager::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Role::HasManager::VERSION = '0.01';
+  $Clio::Role::HasManager::VERSION = '0.02';
 }
 # ABSTRACT: Role for providing manager object
 
@@ -42,7 +42,7 @@ Clio::Role::HasManager - Role for providing manager object
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 

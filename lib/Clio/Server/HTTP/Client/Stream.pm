@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Server::HTTP::Client::Stream::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Server::HTTP::Client::Stream::VERSION = '0.01';
+  $Clio::Server::HTTP::Client::Stream::VERSION = '0.02';
 }
 # ABSTRACT: Clio HTTP Client for streaming connections
 
@@ -97,6 +97,9 @@ sub _handle_client_error {
 }
 
 
+1;
+
+
 __END__
 =pod
 
@@ -108,7 +111,7 @@ Clio::Server::HTTP::Client::Stream - Clio HTTP Client for streaming connections
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 
@@ -171,8 +174,6 @@ WebSocket connections.
 Example HTML/JavaScript code in C<examples/ajax.html>.
 
 =back
-
-1;
 
 =head1 AUTHOR
 

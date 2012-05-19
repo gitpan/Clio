@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Log::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Log::VERSION = '0.01';
+  $Clio::Log::VERSION = '0.02';
 }
 # ABSTRACT: Abstract base class for Clio::Log::* implementations
 
@@ -42,7 +42,7 @@ Clio::Log - Abstract base class for Clio::Log::* implementations
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 SYNOPSIS
 

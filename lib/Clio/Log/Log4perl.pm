@@ -4,7 +4,7 @@ BEGIN {
   $Clio::Log::Log4perl::AUTHORITY = 'cpan:AJGB';
 }
 {
-  $Clio::Log::Log4perl::VERSION = '0.01';
+  $Clio::Log::Log4perl::VERSION = '0.02';
 }
 # ABSTRACT: Log4perl log implementation
 
@@ -52,7 +52,7 @@ Clio::Log::Log4perl - Log4perl log implementation
 
 =head1 VERSION
 
-version 0.01
+version 0.02
 
 =head1 DESCRIPTION
 
